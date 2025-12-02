@@ -1,0 +1,4 @@
+Working Directory: This is where you actually write and edit your code files. 
+Staging area: Think of this as a "holding area" or a "pre-commit zone". You pick and choose which changes from your working directory you want to include in your next commit.
+Local Repository: This is where all your commits are permanently stored  on your computer.
+/home/john-doe-cm-linux/Projects/my-git-notes/git.txt
