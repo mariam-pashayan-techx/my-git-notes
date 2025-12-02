@@ -1,0 +1,2 @@
+Git: This is the powerful "software" that runs on your computer.
+GitHub: This is a popular "website" that hosts Git projects online.
